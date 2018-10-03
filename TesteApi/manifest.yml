@@ -1,0 +1,5 @@
+applications:
+  - path: Teste-Api-0.0.1-SNAPSHOT.jar
+    name: Teste-Api
+    memory: 256M
+    instances: 1
